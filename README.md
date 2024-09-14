@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @psrawat23
-- 👀 I’m interested in Web developmenet, Data Science and AI and its aplications
-- 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on python, AIML, NLP, machine learning algorithms
+- 🌱 Interested in Python full stack dev, dev ops and problem solving
 - 📫 reach me via my email: psrawat23.pr@gmail.com
 
 <!---
